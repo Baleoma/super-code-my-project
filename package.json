@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@fawmi/vue-google-maps": "^0.9.79",
+    "pinia": "^2.1.7",
+    "vue3-google-maps": "^0.0.1"
+  }
+}
